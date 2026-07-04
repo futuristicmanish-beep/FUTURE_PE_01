@@ -1,0 +1,83 @@
+
+MANISH GENTORA CAFE - AI WEBSITE COPY
+
+TASK : 
+	AI Website Copy Generator for Local Businesses (Task 1)
+INTERNSHIP :
+	Future Interns — Prompt Engineering TOOL
+USED :
+	Claude AI 
+BUSINESS : 
+	Manish Gentora Cafe, Erode 
+DATE :
+	04/07/2026
+PROMPT USED  (HOME PAGE) :
+	Write homepage website copy for "Manish Gentora", a cafe in Erode. Include: a headline, a short value proposition (2-3 sentences), and a brief "why choose us" section. Keep tone warm and professional, and make it persuasive but simple.
+
+MANISH GENTORA CAFE - HOMEPAGE COPY :
+============================================
+
+1. HEADLINE :
+	"Where Every Cup Tells a Story"
+
+2. VALUE PROPOSITION :
+	At Manish Gentora, we believe that great coffee and genuine hospitality create moments worth savoring. Nestled in the heart of Erode, our cafe is your neighborhood retreat—a place where friends gather, ideas flow, and every visit feels like coming home. We're passionate about crafting exceptional beverages and serving delicious food in an atmosphere that welcomes everyone.
+
+3.WHY CHOOSE US :
+
+	• Handcrafted with Care
+		Every drink is prepared by our skilled baristas using premium ingredients and time-honored techniques. From aromatic filter coffee to expertly brewed espresso, we take pride in every cup we serve.
+
+	• Fresh, Flavorful Food
+		Our menu features freshly prepared snacks, pastries, and meals made with quality ingredients. Whether you're craving a quick bite or a leisurely meal, we have something to delight your taste buds.
+
+	• Your Comfort Zone
+		Step into a warm, inviting space designed for relaxation and connection. Whether you're catching up with friends, working on your laptop, or simply taking a break from your day, you'll find your perfect spot here.
+
+	• Rooted in Community
+		As a proud part of Erode, we're more than just a cafe—we're your neighbors. We're committed to serving our community with care, consistency, and a smile that makes every visit special.
+
+		Visit Manish Gentora today and discover why we're Erode's favorite place to pause, sip, and savor.
+
+PROMPT USED  (SERVICES PAGE) :
+	Write a services page for Manish gentora. List 3-4 services they offer, each with a short 2-3 sentence description that highlights the benefit to the customer.
+
+MANISH GENTORA CAFE - SERVICES PAGE :
+======================================
+
+OUR SERVICES :
+	At Manish Gentora, we're here to make your day better—one cup, one meal, one moment at a time. Explore the services we offer to enhance your cafe experience.
+
+1. DINE-IN EXPERIENCE :
+	Settle into our cozy cafe and enjoy freshly prepared food and beverages in a relaxed, welcoming atmosphere. Whether you're meeting friends, working remotely, or simply taking a break, our comfortable seating and attentive service ensure you have everything you need. Stay as long as you like—we love having you here.
+
+2. TAKEAWAY & GRAB-AND-GO :
+	Short on time? We've got you covered with quick takeaway service that doesn't compromise on quality. Order your favorite coffee, snacks, or meals to enjoy on the move, perfectly packaged and ready when you are. Great taste shouldn't wait, and neither should you.
+
+3. CATERING FOR EVENTS :
+	Planning a meeting, celebration, or gathering? Let Manish Gentora bring our cafe experience to your event with customized catering options. From coffee and snacks for corporate meetings to sweet treats for special occasions, we'll help you host with ease and impress your guests. Focus on what matters—we'll handle the refreshments.
+
+4. PRIVATE SPACE BOOKINGS :
+	Need a quiet corner for a business discussion or a semi-private area for a small celebration? Our cafe offers flexible seating arrangements that can be reserved for your group. Enjoy the ambiance of Manish Gentora with the privacy and comfort your occasion deserves. Contact us to arrange your booking.
+
+Ready to experience what makes us special? Visit us in Erode or get in touch to learn more about how we can serve you.
+
+PROMPT USED  (CTA SECTIONS ) :
+	Write 3 short call-to-action sections for Manish gentora's website: one for "Contact Us", one for "Book Now", and one for "Get a Free Quote/Consultation". Each should be 1-2 sentences, action-driven.
+
+MANISH GENTORA CAFE - CALL-TO-ACTION SECTIONS :
+==============================================
+
+1. CONTACT US :
+	Have questions or special requests? We'd love to hear from you! Reach out today and let us know how we can make your Manish Gentora experience exceptional.
+
+2. BOOK NOW :
+	Reserve your spot at Erode's favorite cafe! Book a table or private space now and secure your perfect corner for work, relaxation, or celebration.
+
+3. GET A FREE QUOTE :
+	Planning an event or need catering? Get a free, no-obligation quote tailored to your needs. Share your details with us, and we'll help you create the perfect menu for your occasion.
+
+KEY LEARNINGS:
+	- Structuring prompts around a clear audience (local cafe) helped generate more specific, usable copy.
+	
+- Adding tone instructions ("warm and professional") kept the output consistent across all three sections.
